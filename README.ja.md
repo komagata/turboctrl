@@ -71,7 +71,7 @@ class @PostsController
       # XHR access
 ```
 
-# コントリビュート
+## コントリビュート
 
 バグレポート、Pull Request歓迎です。
 
