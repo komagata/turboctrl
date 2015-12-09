@@ -53,7 +53,7 @@ $ rails g turboctrl Post
       create  app/assets/javascripts/controllers/post_controller.js.coffee
 ```
 
-If you access to `/posts/1`, turboctrl call a `show` method of `PostsController` class in `app/assets/javascripts/controllers/posts.js.coffee`
+If you access to `/posts/1`, turboctrl call a `show` method of `PostsController` class in `app/assets/javascripts/controllers/posts_controller.js.coffee`
 
 ## Use with turbolinks
 
