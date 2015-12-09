@@ -2,7 +2,7 @@
 
 javascriptとの乱暴な統合にサヨナラ、railsにマッチしたjavascriptコントローラー。
 
-もしあなたが`/posts/1`にアクセスしたら、turboctrlは`app/assets/javascripts/controllers/posts.js.coffee`にある`PostsController`クラスの`show`メソッドを呼びます。
+もしあなたが`/posts/1`にアクセスしたら、turboctrlは`app/assets/javascripts/controllers/posts_controller.js.coffee`にある`PostsController`クラスの`show`メソッドを呼びます。
 
 ```coffeescript
 class @PostsController
