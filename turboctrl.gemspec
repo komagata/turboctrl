@@ -14,7 +14,7 @@ Gem::Specification.new do |s|
   s.description = "Javascript controller for Rails."
   s.license     = "MIT"
 
-  s.files = Dir["{app,config,db,lib}/**/*", "Rakefile", "README.md", "README.*.md"]
+  s.files = Dir["{app,config,db,lib,vendor}/**/*", "Rakefile", "README.md", "README.*.md"]
   s.test_files = Dir["test/**/*"]
 
   s.add_dependency "rails", ">= 4.1"
