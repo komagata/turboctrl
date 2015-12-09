@@ -1,0 +1,8 @@
+Description:
+    Turboctrl controller generator
+
+Example:
+    rails generate turboctrl Post
+
+    This will create:
+        app/assets/javascripts/controllers/posts_controller.js.coffee
